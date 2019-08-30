@@ -1,0 +1,10 @@
+{{*以下方法 目前無法抓到第一筆資料*}}
+{{*foreach $re as $r*}}
+    {{*$r.a_uId*}}
+{{*/foreach*}}
+
+
+{{*以下方法OK*}}
+{{while $row = $re->fetch()}}
+    {{$row['a_uId']}}
+{{/while}}
