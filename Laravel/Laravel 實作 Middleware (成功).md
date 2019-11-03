@@ -4,7 +4,6 @@
 
 1.設定
 
-![1572743836753](C:\Users\cmder\AppData\Roaming\Typora\typora-user-images\1572743836753.png)
 
 
 
