@@ -206,8 +206,8 @@ echo $y;
 
 
 
-![image](./assets/a1.png)
+![image](assets/a1.png)
 
-![image](./assets/a2.png)
+![image](assets/a2.png)
 
-![image](./assets/a3.png)
+![image](assets/a3.png)
