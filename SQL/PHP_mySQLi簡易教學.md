@@ -195,6 +195,8 @@ $connect->query("SET NAMES 'utf8'");
 $insertSql = "INSERT INTO member (account, password, nickname) VALUES ('test', 123, '測試')";
 ```
 
+- **Update修改/Delete刪除時>一定要指定是哪筆資料!!不然會全修改或是全刪除**
+
 ## 將重複連線程式獨立出來寫成Class/模組化
 
 可以看到連線程式一直被重複寫在檔案裡
