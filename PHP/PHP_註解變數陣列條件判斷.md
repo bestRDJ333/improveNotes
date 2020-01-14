@@ -1,5 +1,29 @@
 # PHP_基礎/註解/變數/陣列/條件判斷/
 
+- PHP基礎
+  - PHP與Html混寫
+  - PHP分號;指令結束符
+  - 表達式
+- 註解
+- 變數/變量
+  - $開頭
+- array陣列
+- 條件判斷if else
+  - if
+  - if else
+  - if elseif else
+  - switch case(類似 if else)
+- 迴圈
+  - for
+  - foreach
+  - while
+  - do while
+
+
+
+
+
+---
 ## PHP基礎
 
 Server端腳本語言
