@@ -4,6 +4,17 @@
 
 [https://twosheng.com/php%e6%95%99%e5%ad%b8-3%e8%88%87mysql%e8%b3%87%e6%96%99%e5%ba%ab%e4%ba%92%e5%8b%95/](https://twosheng.com/php教學-3與mysql資料庫互動/)
 
+- 建立MySQL連線
+- SELECT查詢
+- INSERT新增
+- UPDATE修改
+- DELETE刪除
+- 注意事項
+  - query
+  - 修改/刪除時 一定要指定是哪筆資料!!不然會全修改或是全刪除**
+- 將重複連線程式獨立出來寫成Class/模組化
+
+
 ------------------
 
 ----------------
